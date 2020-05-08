@@ -4,4 +4,4 @@ __This Repo Contains some simple JavaScript Projects ehich i've developed during
 These Projects are tabulated below
 |Sl No.| Project Name  | Project Link  |
 |------| ------------- |-------------|
-|1| Pig Game  |N.A.  |
+|1| Pig Game 1.0 |N.A.  |
