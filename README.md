@@ -5,3 +5,4 @@ These Projects are tabulated below
 |Sl No.| Project Name  | Project Link  |
 |------| ------------- |-------------|
 |1| Pig Game 1.0 |N.A.  |
+|1| Pig Game 2.0 |N.A.  |
